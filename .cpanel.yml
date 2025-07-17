@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/vuika6sw8yv1/denvey-digital-canvas-main/denvey-digital-canvas-main/index.html/
+    - /bin/cp -R images $DEPLOYPATH
