@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/vuika6sw8yv1/repositories/mevia_informative/
+    - export DEPLOYPATH=/home/example/public_html/
     - /bin/cp * $DEPLOYPATH
