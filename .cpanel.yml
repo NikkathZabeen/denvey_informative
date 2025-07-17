@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/vuika6sw8yv1/repositories/mevia_informative/
-    - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
